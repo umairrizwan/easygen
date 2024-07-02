@@ -6,7 +6,7 @@ Welcome to the Cypress Automation Framework repository! This framework is design
 <h2> Easy Generator </h2>
 # A sample framework created using cypress, typescript for the client Easy Generator
 
-Pre-requisite Tools
+### Pre-requisite Tools
 Node version 12 or above
 Visual Studio Code <br />
 
