@@ -47,6 +47,6 @@ npm run "ui:test"
 ### 5. Command for execution of test scripts
 Open Terminal and write command in order to execute tests in headless mode
 ```bash
-ui:test:headless
+npm run ui:test:headless
 ```
 
