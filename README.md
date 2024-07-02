@@ -1,4 +1,4 @@
-<h2> Easy Gen </h2>h2>
+<h2> Easy Gen </h2>
 # A sample framework created using cypress, javascript and docker
 
 Pre-requisite Tools
