@@ -38,13 +38,13 @@ This framework is designed to support various testing types:
 Right click on alert-text.txt and copy path <br />
 Now paste that path in the example.json highlighted on the right side of the snapshot <br />
 
-### 5. Command for execution of test scripts
+### 5. Command for execution of test scripts on cypress runner
 Open Terminal and write command in order to execute tests on cypress runner
 ```bash
 npm run "ui:test"
 ```
 
-### 5. Command for execution of test scripts
+### 6. Command for execution of test scripts in headless mode
 Open Terminal and write command in order to execute tests in headless mode
 ```bash
 npm run ui:test:headless
