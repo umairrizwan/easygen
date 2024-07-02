@@ -12,6 +12,9 @@ npm install<br />
 
 
 <img width="458" alt="github" src="https://github.com/umairrizwan/easygen/assets/63503754/48648150-2076-4e3d-9f10-63340e795d9b">
+Right click on alert-text.txt and copy path <br />
+Now paste that path in the example.json highlighted on the right side of the snapshot <br />
+
 <h2>set env vars in cypress.config.js</h2><br />
 go to cypress.config.js file<br />
 
