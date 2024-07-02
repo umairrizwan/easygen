@@ -9,7 +9,7 @@ You know setting up framework is very quick!
 
 npm install<br />
 
-<h2>set env vars in cypress.config.js<br />
+<h2>set env vars in cypress.config.js</h2><br />
 go to cypress.config.js file<br />
 
 Dashboard execution<br />
