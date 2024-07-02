@@ -39,5 +39,8 @@ Right click on alert-text.txt and copy path <br />
 Now paste that path in the example.json highlighted on the right side of the snapshot <br />
 
 <h2>Script to execute test cases</h2><br />
-# Open Terminal and write command [npm run "ui:test"] <br />
+Open Terminal and write command  ```bash
+npm run "ui:test"
+```
+
 # To run scripts in headlress mode >> Open Terminal and write command ["ui:test:headless"] <br />
