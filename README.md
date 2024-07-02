@@ -1,10 +1,10 @@
 <h2> Easy Gen </h2>
-# A sample framework created using cypress, javascript and docker
+# A sample framework created using cypress, typescript 
 
 Pre-requisite Tools
 Node version 12 or above
-Visual Studio Code
-Quickstart
+Visual Studio Code <br />
+<h2>Quickstart</h2>
 You know setting up framework is very quick!
 
 npm install
