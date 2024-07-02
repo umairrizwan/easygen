@@ -17,11 +17,4 @@ Now paste that path in the example.json highlighted on the right side of the sna
 
 <h2>Script to execute test cases</h2><br />
 # Open Terminal and write command [npm run "ui:test"] <br />
-Dashboard execution<br />
-Go to project root,<br />
-npx cypress open or npm run cy:open<br />
-click specific feature<br />
-cmmd line Execution<br />
-npm run cy:run # for a full run<br />
-npm run dev-cy:run # for a full run on dev environment, need to change baseUrls accordingly<br />
-and refer to more other npm scripts added in package.json<br />
+# To run scripts in headlress mode >> Open Terminal and write command ["ui:test:headless"] <br />
