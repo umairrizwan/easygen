@@ -19,8 +19,19 @@ To get started with this framework, follow these steps:
 ```bash
 npm install cypress --save-dev
 ```
+### Code Structure
+This Cypress Automation Framework follows a structured approach for better maintainability and scalability. Below is an overview of the code structure:
+### Comprehensive Testing
+This framework is designed to support various testing types:
 
-<h2>Set file path for alert file</h2><br />
+- UI Testing: UI tests are located under the cypress/e2e folder. Each test file typically follows the naming convention Test ui-tests.cy.ts, where "ui-tests" represents the UI being tested.
+
+
+### Folder Structure
+- Project uses ui-config.ts which can be found under cypress/condif/ folder: It Contains script to execute script both in ui and headless mode
+- support: Contains command.ts file in which there are couple of custom commands for Alerts
+
+### Set file path for alert file
 
 
 <img width="458" alt="github" src="https://github.com/umairrizwan/easygen/assets/63503754/48648150-2076-4e3d-9f10-63340e795d9b"><br />
