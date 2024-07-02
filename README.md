@@ -9,7 +9,7 @@ You know setting up framework is very quick!
 
 npm install<br />
 <h2>Set file path for alert file</h2><br />
-![github](https://github.com/umairrizwan/easygen/assets/63503754/819778ee-0d9e-4d09-b3a8-1f8bc43cff83)
+![github](https://github.com/umairrizwan/easygen/assets/63503754/d7798ee4-2876-4af8-aac8-9f9b097b5b75)
 
 
 <h2>set env vars in cypress.config.js</h2><br />
