@@ -1,13 +1,25 @@
+
+
+# _Cypress Automation Framework_
+
+Welcome to the Cypress Automation Framework repository! This framework is designed to simplify and streamline your UI,  testing using Cypress, a powerful end-to-end testing framework.
 <h2> Easy Gen </h2>
 # A sample framework created using cypress, typescript 
 
 Pre-requisite Tools
 Node version 12 or above
 Visual Studio Code <br />
-<h2>Quickstart</h2>
-You know setting up framework is very quick!
 
-npm install<br />
+## Installation and Setup
+
+To get started with this framework, follow these steps:
+
+### 1. Install Cypress
+
+```bash
+npm install cypress --save-dev
+```
+
 <h2>Set file path for alert file</h2><br />
 
 
