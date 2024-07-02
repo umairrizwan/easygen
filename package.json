@@ -1,0 +1,21 @@
+{
+  "name": "easygen",
+  "version": "1.0.0",
+  "description": "This is easy gen project",
+  "main": "index.js",
+  "scripts": {
+    "ui:test": "npx cypress open --config-file cypress/config/ui-config.ts",
+    "ui:test:headless": "npx cypress run --headless --config-file cypress/config/ui-config.ts"
+  },
+  "author": "Umair",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.12.0",
+    "file-system": "^2.2.2",
+    "prettier": "^3.3.2",
+    "typescript": "^5.5.2"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
