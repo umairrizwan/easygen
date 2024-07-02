@@ -38,7 +38,7 @@ This framework is designed to support various testing types:
 Right click on alert-text.txt and copy path <br />
 Now paste that path in the example.json highlighted on the right side of the snapshot <br />
 
-<h2>Script to execute test cases</h2><br />
+### 2. Command for execution of test scripts
 Open Terminal and write command 
 ```bash
 npm run "ui:test"
