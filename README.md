@@ -3,8 +3,8 @@
 # _Cypress Automation Framework_
 
 Welcome to the Cypress Automation Framework repository! This framework is designed to simplify and streamline your UI,  testing using Cypress, a powerful end-to-end testing framework.
-<h2> Easy Gen </h2>
-# A sample framework created using cypress, typescript 
+<h2> Easy Generator </h2>
+# A sample framework created using cypress, typescript for the client Easy Generator
 
 Pre-requisite Tools
 Node version 12 or above
